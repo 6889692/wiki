@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/6889692/wiki/refs/heads/gh-pages/colo/hk.txt@proxyip.amclubs.kozow.com
 https://raw.githubusercontent.com/6889692/wiki/refs/heads/gh-pages/colo/JP.txt@141.147.163.68
+https://raw.githubusercontent.com/6889692/wiki/refs/heads/gh-pages/colo/us.txt@proxyip.amclubs.camdvr.org
