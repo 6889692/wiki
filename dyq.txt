@@ -1,5 +1,5 @@
 https://raw.githubusercontent.com/6889692/wiki/main/colo/hk.txt@proxyip.amclubs.kozow.com
 https://raw.githubusercontent.com/6889692/wiki/main/colo/JP.txt@141.147.163.68
-https://raw.githubusercontent.com/6889692/wiki/main/colo/us.txt@ali.055500.xyz
-https://raw.githubusercontent.com/6889692/wiki/main/domain.txt@ali.055500.xyz
-https://raw.githubusercontent.com/6889692/wiki/main/cfnat.txt@ali.055500.xyz
+https://raw.githubusercontent.com/6889692/wiki/main/colo/us.txt@cdn-all.xn--b6gac.eu.org
+https://raw.githubusercontent.com/6889692/wiki/main/domain.txt@ts.hpc.tw
+https://raw.githubusercontent.com/6889692/wiki/main/cfnat.txt@cdn-b100.xn--b6gac.eu.org
