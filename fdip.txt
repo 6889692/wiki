@@ -1,3 +1,8 @@
+103.160.204.104#ali.055500.xyz
+62.60.230.145#ali.055500.xyz
+62.60.230.30#ali.055500.xyz
+62.60.237.175#ali.055500.xyz
+27.50.48.4#ali.055500.xyz
 103.160.204.15#www.croxxvapor.com
 103.160.204.246#cpcalendars.shopdg.shop
 103.160.204.50#www.divatcipok.shop
@@ -5,13 +10,10 @@
 120.26.3.169#ali.055500.xyz-ip
 154.211.8.48#www.2lolypopcinta99.lat
 154.211.8.72#banteng69jump.xn--mk1bu44c
-27.50.48.4#ali.055500.xyz
 27.50.48.6#www.jg-1248.com
 27.50.49.250#smtp.yangbingsheng.com
-62.60.230.145#ali.055500.xyz
-62.60.230.30#ali.055500.xyz
-62.60.237.175#ali.055500.xyz
 154.211.8.72#www.boomasia99.lat
+ali.055500.xyz#ali.055500.xyz
 www.croxxvapor.com#FD
 cpcalendars.shopdg.shop#FD
 www.divatcipok.shop#FD
