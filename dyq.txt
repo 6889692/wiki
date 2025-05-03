@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/6889692/wiki/main/cfip.txt@proxyip.amclubs.kozow.com
+https://raw.githubusercontent.com/6889692/wiki/main/cfip.txt@ts.hpc.tw
 https://raw.githubusercontent.com/6889692/wiki/main/fdip.txt@ts.hpc.tw
 https://raw.githubusercontent.com/6889692/wiki/main/colo/hk.txt@proxyip.amclubs.kozow.com
 https://raw.githubusercontent.com/6889692/wiki/main/colo/JP.txt@141.147.163.68
