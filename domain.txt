@@ -8,13 +8,20 @@ www.jg-1248.com#FD
 www.2lolypopcinta99.lat#FD
 banteng69jump.xn--mk1bu44c#FD
 #上面是反向代理
+www.visa.com.hk#visa
+www.visa.com.tw#visa
+www.visa.com.sg#visa
+www.visa.co.jp#visa
+africa.visa.com#visa
+icook.hk#icook
+icook.tw#icook
+www.gov.se#www
+time.is#www
 yecaoyun.com#www
 craig.ns.cloudflare.com#www
 otto.ns.cloudflare.com#www
 uriah.ns.cloudflare.com#www
 ashton.ns.cloudflare.com#www
-www.visa.com.hk#www
-www.gov.se#www
 www.cloudflare.tv.cdn.cloudflare.net#www
 sullivan.ns.cloudflare.com#www
 www.fontawesome.com#www
@@ -43,7 +50,6 @@ www.gov.ua#www
 r2-calculator.cloudflare.com#www
 shopify.com#www
 nikon.ns.cloudflare.com#www
-icook.hk#www
 drand.cloudflare.com#www
 discord.cloudflare.com#www
 customer.l53.net#www
@@ -65,9 +71,7 @@ benedict.ns.cloudflare.com#www
 www.hostpapa.in#www
 uptimerobot.com#www
 wall.alphacoders.com#www
-icook.tw#www
 opencollective.com#www
-time.is#www
 icons.getbootstrap.com#www
 anticheat-client.faceit-cdn.net#www
 www.ipxo.com#www
@@ -82,7 +86,6 @@ dnschecker.org#www
 faceit-client.faceit-cdn.net#www
 www.glassdoor.com#www
 ipv4.ip.sb#www
-www.visa.co.jp#www
 toy-people.com#www
 radar-cfdata-org.cloudflareaccess.com#www
 www.namecheap.com#www
@@ -100,7 +103,6 @@ qa.visamiddleeast.com#www
 russia.com#www
 developers.cloudflare.com#www
 js.hcaptcha.com#www
-www.visa.com.sg#www
 singapore.com#www
 cfip.xxxxxxxx.tk#www
 ae.visamiddleeast.com#www
@@ -142,7 +144,6 @@ download-alt.easyanticheat.net#www
 ai.cloudflare.com#www
 research.cloudflare.com#www
 bowen.ns.cloudflare.com#www
-africa.visa.com#www
 geolocation.onetrust.com#www
 graylog.org#www
 www.ddwhm.com#www
