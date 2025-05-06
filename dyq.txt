@@ -1,7 +1,7 @@
 https://raw.githubusercontent.com/6889692/wiki/main/cfip.txt@ts.hpc.tw
 https://raw.githubusercontent.com/6889692/wiki/main/fdip.txt@ts.hpc.tw
-https://raw.githubusercontent.com/6889692/wiki/main/colo/hk.txt@proxyip.amclubs.kozow.com
-https://raw.githubusercontent.com/6889692/wiki/main/colo/JP.txt@141.147.163.68
-https://raw.githubusercontent.com/6889692/wiki/main/colo/us.txt@cdn-all.xn--b6gac.eu.org
+https://raw.githubusercontent.com/6889692/wiki/main/colo/hk.txt@47.57.14.118
+https://raw.githubusercontent.com/6889692/wiki/main/colo/JP.txt@138.2.10.49
+https://raw.githubusercontent.com/6889692/wiki/main/colo/us.txt@192.9.238.179
 https://raw.githubusercontent.com/6889692/wiki/main/domain.txt@ts.hpc.tw
 https://raw.githubusercontent.com/6889692/wiki/main/cfnat.txt@cdn-b100.xn--b6gac.eu.org
