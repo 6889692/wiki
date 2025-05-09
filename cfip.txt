@@ -1,5 +1,10 @@
 ali.055500.xyz#ali.055500.xyz
 120.26.3.169#ali.055500.xyz
+www.visa.com.sg#visa.sg
+www.visa.com.hk#visa.hk
+www.visa.com.tw#visa.tw
+icook.hk#icook.hk
+icook.tw#icook.tw
 173.245.49.84#5月3日
 104.18.23.103#5月3日
 104.23.107.11#4月29日
