@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/6889692/cfip/main/ip.txt@ts.hpc.tw
 https://raw.githubusercontent.com/6889692/wiki/main/cfip.txt@ts.hpc.tw
 https://raw.githubusercontent.com/6889692/wiki/main/visa.txt@ts.hpc.tw
 https://raw.githubusercontent.com/6889692/wiki/main/www.txt@cdn-all.xn--b6gac.eu.org
