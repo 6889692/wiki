@@ -1,10 +1,9 @@
-https://raw.githubusercontent.com/6889692/cfip/main/ip.txt@ts.hpc.tw
-https://raw.githubusercontent.com/6889692/wiki/main/cfip.txt@ts.hpc.tw
-https://raw.githubusercontent.com/6889692/wiki/main/visa.txt@ts.hpc.tw
-https://raw.githubusercontent.com/6889692/wiki/main/www.txt@cdn-all.xn--b6gac.eu.org
-https://raw.githubusercontent.com/6889692/wiki/main/CF.TXT@ts.hpc.tw
-https://raw.githubusercontent.com/6889692/wiki/main/fdip.txt@47.57.14.118
+https://raw.githubusercontent.com/6889692/wiki/main/cfip.txt@bpb.yousef.isegaro.com
+https://raw.githubusercontent.com/6889692/wiki/main/visa.txt@149.28.21.106
+https://raw.githubusercontent.com/6889692/wiki/main/www.txt@149.28.21.106
+https://raw.githubusercontent.com/6889692/wiki/main/CF.TXT@bpb.yousef.isegaro.com
+https://raw.githubusercontent.com/6889692/wiki/main/fdip.txt@217.142.236.93
 https://raw.githubusercontent.com/6889692/wiki/main/colo/hk.txt@47.57.14.118
-https://raw.githubusercontent.com/6889692/wiki/main/colo/JP.txt@138.2.10.49
+https://raw.githubusercontent.com/6889692/wiki/main/colo/JP.txt@149.28.21.106
 https://raw.githubusercontent.com/6889692/wiki/main/colo/us.txt@192.9.238.179
-https://raw.githubusercontent.com/6889692/wiki/main/cfnat.txt@cdn-b100.xn--b6gac.eu.org
+https://raw.githubusercontent.com/6889692/wiki/main/cfnat.txt@bpb.yousef.isegaro.com
