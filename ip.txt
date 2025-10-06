@@ -3,6 +3,10 @@ www.visa.com.sg#visa.sg
 www.visa.com.tw#visa.tw
 arushi.ns.cloudflare.com
 ali.055500.xyz#ali.055500.xyz
+is.ip#WWW
+time.is#WWW
+pages.dev#WWW
+www.hyva.com#WWW
 139.224.43.79#JP
 104.18.32.137#SG
 104.18.33.45#SG
@@ -36,7 +40,3 @@ anton.ns.cloudflare.com
 abdullah.ns.cloudflare.com
 arvind.ns.cloudflare.com
 otto.ns.cloudflare.com
-is.ip@WWW
-time.is@WWW
-pages.dev@WWW
-www.hyva.com@WWW
