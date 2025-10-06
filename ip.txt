@@ -1,12 +1,11 @@
 www.visa.com.hk#VISA
 www.visa.com.sg#VISA
 www.visa.com.tw#VISA
-is.ip#WWW
 time.is#WWW
-pages.dev#WWW
 www.hyva.com#WWW
 ali.055500.xyz#WWW
 139.224.43.79#JP
+162.159.38.49#JP
 104.18.32.137#SG
 104.18.33.45#SG
 104.18.38.2#SG
