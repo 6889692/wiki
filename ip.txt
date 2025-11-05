@@ -1,9 +1,10 @@
 www.visa.com.hk#VISA
 www.visa.com.sg#VISA
 www.visa.com.tw#VISA
-ali.055500.xyz#WWW
+ali.055500.xyz#ali
 139.224.43.79#JP
 162.159.38.49#JP
+162.159.44.113#JP
 104.18.32.137#SG
 104.18.33.45#SG
 104.18.38.2#SG
@@ -16,6 +17,8 @@ ali.055500.xyz#WWW
 162.159.2.9#SG
 162.159.5.6#SG
 162.159.9.55#SG
+maciej.ns.cloudflare.com#CF
+natasha.ns.cloudflare.com#CF
 arushi.ns.cloudflare.com#CF
 alexa.ns.cloudflare.com#CF
 adele.ns.cloudflare.com#CF
@@ -34,7 +37,5 @@ christina.ns.cloudflare.com#CF
 alan.ns.cloudflare.com#CF
 andronicus.ns.cloudflare.com#CF
 anton.ns.cloudflare.com#CF
-abdullah.ns.cloudflare.com#CF
-arvind.ns.cloudflare.com#CF
 coco.ns.cloudflare.com#CF
 otto.ns.cloudflare.com#CF
