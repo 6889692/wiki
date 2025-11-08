@@ -17,6 +17,7 @@ ali.055500.xyz#ali
 162.159.2.9#SG
 162.159.5.6#SG
 162.159.9.55#SG
+ali.ns.cloudflare.com#CF
 maciej.ns.cloudflare.com#CF
 natasha.ns.cloudflare.com#CF
 arushi.ns.cloudflare.com#CF
